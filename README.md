@@ -2,7 +2,7 @@
 .Net core worker service as windows service
 
 # Getting started
-Edit Scripts/Install.bat file, give your worker service exe path.
+Edit Scripts/Install.bat file, change binPath with your worker service exe path.
 Run install.bat
 
 sc delete WorkerWS
